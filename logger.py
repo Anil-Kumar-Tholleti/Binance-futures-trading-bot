@@ -9,4 +9,3 @@ def setup_logger():
         format="%(asctime)s - %(levelname)s - %(message)s"
     )
     return logging.getLogger("BinanceBot")
-
